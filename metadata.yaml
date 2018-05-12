@@ -1,0 +1,30 @@
+_repo: Esploraci-n-arqueol-gica-de-la-Provincia-de-Catamarca_30052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moreno, Francisco Pascasio
+    aliases:
+    - Thwaites, Francisco Pascasio Moreno y
+    - Moreno, Francisco P. (Francisco Pascasio)
+    - Moreno, Perito
+    birthdate: 1852
+    deathdate: 1919
+    gutenberg_agent_id: '34336'
+    url: http://www.gutenberg.org/2009/agents/34336
+description: ''
+gutenberg_issued: '2009-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30052'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catamarca (Argentina : Province) -- Antiquities'
+- !lcc 'F2801'
+title: Esploración arqueológica de la Provincia de Catamarca
+url: http://www.gutenberg.org/ebooks/30052
